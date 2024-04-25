@@ -20,6 +20,9 @@ This is a project-based course that provides an opportunity for you to apply the
 
 ### Part One - Version Control Systems 
 
+
+<img src="../images/git_icon.png" width="200">
+
 This part covers key topics in version control systems, where you will gain a comprehensive understanding of GitHub branching, conflict resolution, and actions, enabling you to effectively collaborate on projects, automate workflows, and streamline development processes using GitHub's powerful features. Key topics covered in this part are:
 
 1. Introduction to Version Control and Git:
@@ -49,6 +52,8 @@ This part covers key topics in version control systems, where you will gain a co
 
 ### Part Two - Azure Computer Networking
 
+<img src="../images/azure_icon.jpg" width="200">
+
 This part focuses on the design and deployment of a crafted network topology engineered to deliver reliable performance, scalability, and resilience. Leveraging Azure's Virtual Network (VNet) capabilities, you'll delineate secure and isolated network segments, meticulously tailored to meet the unique needs of diverse workloads. Key topics covered in this part are:
 
 1. Azure Virtual Machine Fundamentals:
@@ -72,6 +77,8 @@ This part focuses on the design and deployment of a crafted network topology eng
 
 ### Part Three - Scalable, Portable, Resilient Design Patterns
 
+<img src="../images/docker_icon.png" width="200">
+
 This part focuses on the design and deployment of a crafted network topology engineered to deliver reliable performance, scalability, and resilience. Leveraging Azure's Virtual Network (VNet) capabilities, you'll delineate secure and isolated network segments, meticulously tailored to meet the unique needs of diverse workloads. Key topics covered in this part are:
 
 Efficient Resource Utilization: Kubernetes allows for efficient resource utilization in serverless designs by automatically scaling resources up or down based on demand. This ensures that only the necessary resources are allocated at any given time, optimizing cost and performance.
@@ -83,8 +90,9 @@ Developer Productivity: By abstracting away infrastructure management complexiti
 Portability and Flexibility: Kubernetes provides a consistent platform for deploying serverless functions across on-premises data centers, public clouds, and hybrid environments. This portability ensures that serverless applications can run anywhere Kubernetes is deployed, offering flexibility and avoiding vendor lock-in.
 Integration with Ecosystem Tools: Kubernetes integrates seamlessly with a wide range of ecosystem tools and services, including monitoring and logging solutions, CI/CD pipelines, service meshes, and API gateways. This enables comprehensive observability, automation, and management of serverless workloads within Kubernetes environments.
 
-
 ## What You Need to Know!
+
+<img src="../images/wynk_icon.jpg" width="200">
 
 This is a project-based course that is designed to prepare you for your future careers by offering a dynamic and immersive learning experience. This course provides you with opportunities to apply theoretical knowledge gained throughout your academic journey to real-world scenarios, fostering critical thinking, problem-solving skills, and creativity. By working on authentic projects, you gain hands-on experience in navigating complexities, collaborating with other students to solve problems, and managing project timelines—skills highly sought after by employers in various industries. 
 
@@ -94,31 +102,43 @@ There are no **formal teaching** sessions in this course. You are expected to ex
 
 ## Who should **NOT** take this course?
 
-If a student is not ready to take on the challenges of real-world projects, it may be advisable for them not to enroll in this course. Real-world projects demand a high level of commitment, problem-solving skills, and the ability to work effectively under pressure. Without these essential attributes, students may struggle to meet the course requirements and derive meaningful learning outcomes. Moreover, participating in a course with project-based assignments requires students to actively engage in hands-on activities, collaborate with peers, and demonstrate initiative in tackling complex tasks. If a student feels unprepared or lacks the necessary skills and mindset to thrive in such an environment, it might be more beneficial for them to focus on building foundational knowledge and practical skills through prerequisite courses or additional training before attempting a course with real-world project components. Ultimately, taking on challenges beyond one's current capabilities can lead to frustration and may impede overall academic and personal development. Therefore, it's important for students to assess their readiness and choose courses that align with their current skill level and learning objectives.
+<img src="../images/not_icon.jpg" width="200">
 
+If you are ready to take on the challenges of real-world projects, it may be advisable for you not to enroll in this course. Real-world projects demand a high level of commitment, problem-solving skills, and the ability to work effectively under pressure. Without these essential attributes, you may struggle to meet the course requirements and derive meaningful learning outcomes.
 
-This course also introduces networking design topics, including the development of a scalable and redundant network design in conjunction with disaster recovery planning. 
+Moreover, participating in a course with project-based assignments requires you to actively engage in hands-on activities, collaborate with peers, and demonstrate initiative in tackling complex tasks. If you feel unprepared or lack the necessary skills and mindset to thrive in such an environment, it might be more beneficial for them to focus on building foundational knowledge and practical skills through prerequisite courses or additional training before attempting a course with real-world project components. Ultimately, taking on challenges beyond one's current capabilities can lead to frustration and may impede overall academic and personal development. Therefore, it's important for students to assess their readiness and choose courses that align with their current skill level and learning objectives.
 
 
 Whenever there is publicly available learning material for your better understanding, it will be posted in Class Recording & Material. Keep monitoring it for updates.
 
-You are expected to have a preliminary understanding of IaaS, PaaS, SaaS and have at least completed one basic project in a cloud environment. If you have never created a virtual machine before or are not comfortable with working with Linux commands, you need to do extra work to catch up.
 
-You are also expected to be proficient in remotely creating, administering and diagnosing an interconnected multi-server environment. 
+
 
 
 ### Prerequisites
+
+<img src="../images/pre_icon.png" width="200">
+
+This course is ideal for students pursuing a career in computer science, information technology, or cloud computing. It is also beneficial if you are looking to enhance your expertise in cloud networking and Azure technologies. Through this course, you can enhance your skills in cloud computing and Azure services and prepare yourself for Associate and Professional level certifications. However, you must basic cloud compcomputing utign and linux knowledge to excel in this course.
+
+You are expected to have a preliminary understanding of IaaS, PaaS, SaaS and have at least completed one basic project in a cloud environment. If you have never created a virtual machine before or are not comfortable with working with Linux commands, you need to do extra work to catch up.
+
+
+You are also expected to be proficient in remotely creating, administering and diagnosing an interconnected multi-server environment. 
 
 1. Basic knowledge of computer systems and networking.
 2. Basic knowledge of computer networking concepts, including IP addressing, subnetting, and routing.
 3. Familiarity with cloud computing fundamentals and Azure services is recommended but not mandatory.
 
-This course is ideal for students pursuing a career in computer science, information technology, or cloud computing. It is also beneficial if you are looking to enhance your expertise in cloud networking and Azure technologies. Through this course, you can enhance your skills in cloud computing and Azure services and prepare yourself for Associate and Professional level certifications.
 
 
 
 
-Accessing GitHub Organization
+
+### Accessing GitHub Organization
+
+<img src="../images/github_icon.png" width="200">
+
 You will need a GitHub account to complete and submit the CSP451 Weekly Assignments. The GitHub account you use in this course must be linked to your _@myseneca.ca_ email. You cannot use personal or work GitHub for this course.
 
 If you have not created a GitHub account using your Seneca email, you can wait until the first day of the class to set it up. If you already have created the GitHub account, make sure to follow instructions in ??? to update user-id and profile name as per course requirements.
@@ -127,12 +147,6 @@ Course GitHub Material codes and scripts are continuously updated, it is a good 
 
 add how to create a watch here
 add how to update id and profile name
-
-
-This course 
-
-
-https://seneca-ictoer.github.io/SRT210/weekly-schedule
 
 
 
