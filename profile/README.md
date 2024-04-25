@@ -21,7 +21,7 @@ This is a project-based course that provides an opportunity for you to apply the
 ### Part One - Version Control Systems 
 
 
-<img src="./images/git_icon.png" width="200">
+<img src="./git_icon.png" width="200">
 
 This part covers key topics in version control systems, where you will gain a comprehensive understanding of GitHub branching, conflict resolution, and actions, enabling you to effectively collaborate on projects, automate workflows, and streamline development processes using GitHub's powerful features. Key topics covered in this part are:
 
@@ -52,7 +52,7 @@ This part covers key topics in version control systems, where you will gain a co
 
 ### Part Two - Azure Computer Networking
 
-<img src="./images/azure_icon.jpg" width="200">
+<img src="./azure_icon.jpg" width="200">
 
 This part focuses on the design and deployment of a crafted network topology engineered to deliver reliable performance, scalability, and resilience. Leveraging Azure's Virtual Network (VNet) capabilities, you'll delineate secure and isolated network segments, meticulously tailored to meet the unique needs of diverse workloads. Key topics covered in this part are:
 
@@ -77,7 +77,7 @@ This part focuses on the design and deployment of a crafted network topology eng
 
 ### Part Three - Scalable, Portable, Resilient Design Patterns
 
-<img src="./images/docker_icon.png" width="200">
+<img src="./docker_icon.png" width="200">
 
 This part focuses on the design and deployment of a crafted network topology engineered to deliver reliable performance, scalability, and resilience. Leveraging Azure's Virtual Network (VNet) capabilities, you'll delineate secure and isolated network segments, meticulously tailored to meet the unique needs of diverse workloads. Key topics covered in this part are:
 
@@ -92,7 +92,7 @@ Integration with Ecosystem Tools: Kubernetes integrates seamlessly with a wide r
 
 ## What You Need to Know!
 
-<img src="./images/wynk_icon.jpg" width="200">
+<img src="./wynk_icon.jpg" width="200">
 
 This is a project-based course that is designed to prepare you for your future careers by offering a dynamic and immersive learning experience. This course provides you with opportunities to apply theoretical knowledge gained throughout your academic journey to real-world scenarios, fostering critical thinking, problem-solving skills, and creativity. By working on authentic projects, you gain hands-on experience in navigating complexities, collaborating with other students to solve problems, and managing project timelines—skills highly sought after by employers in various industries. 
 
@@ -102,7 +102,7 @@ There are no **formal teaching** sessions in this course. You are expected to ex
 
 ## Who should **NOT** take this course?
 
-<img src="./images/not_icon.jpg" width="200">
+<img src="./not_icon.jpg" width="200">
 
 If you are ready to take on the challenges of real-world projects, it may be advisable for you not to enroll in this course. Real-world projects demand a high level of commitment, problem-solving skills, and the ability to work effectively under pressure. Without these essential attributes, you may struggle to meet the course requirements and derive meaningful learning outcomes.
 
@@ -117,7 +117,7 @@ Whenever there is publicly available learning material for your better understan
 
 ### Prerequisites
 
-<img src="./images/pre_icon.png" width="200">
+<img src="./pre_icon.png" width="200">
 
 This course is ideal for students pursuing a career in computer science, information technology, or cloud computing. It is also beneficial if you are looking to enhance your expertise in cloud networking and Azure technologies. Through this course, you can enhance your skills in cloud computing and Azure services and prepare yourself for Associate and Professional level certifications. However, you must basic cloud compcomputing utign and linux knowledge to excel in this course.
 
@@ -137,7 +137,7 @@ You are also expected to be proficient in remotely creating, administering and d
 
 ### Accessing GitHub Organization
 
-<img src="../images/github_icon.png" width="200">
+<img src="../github_icon.png" width="200">
 
 You will need a GitHub account to complete and submit the CSP451 Weekly Assignments. The GitHub account you use in this course must be linked to your _@myseneca.ca_ email. You cannot use personal or work GitHub for this course.
 
